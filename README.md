@@ -1,5 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The main point of this application was to capture the aesthetics of the Mac's legacy calculator while at the same time, making it functional. The layout is generally left the same, with just some of the coloring changed.
 
+This app was created through react and has all of it's moving parts separated into components. Every part has it's own area, allowing for a spectator to come and see exactly what is going on and where.
+
+If you wish to download this app and use it locally, all you have to do after downloading it is to either use **yarn install** or **npm install** and then use the **yarn start** or **npm start** command in the console. Instructions follow below.
+
+If you wish to see a live demo of this app, click [here](https://mac-calculator.herokuapp.com/)
 ## Available Scripts
 
 In the project directory, you can run:
